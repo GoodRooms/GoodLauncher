@@ -7,7 +7,7 @@ An Alternative to GoodRooms Integrated Batch Launchers, This is a Batch Launcher
 4. Run GoodLauncher.bat
 5. Youre Done!
 # Requerimients
-- Have GoodRooms Client
+- Have GoodRooms Client, Get it at https://www.mediafire.com/folder/rzh4aq7wl0q0h/GoodRooms+Client
 - Any Good Graphics Card
 - Windows 7 or Higher, We dont Support Wine, Linux or Mac Operating System
 # Debug Mode
